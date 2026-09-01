@@ -1,6 +1,6 @@
 Hi, I'm Kaic Alves 👋
 
-### Data | Python | SQL | ETL ⚙️
+### Data engineer ⚙️
 
 I build data pipelines and practical projects that turn raw data into reliable, organized information for better decisions. 📊
 
